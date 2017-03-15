@@ -8,8 +8,10 @@ facts:
 2.  of the family Alligatoridae
 3.  Alligators first appeared during the Paleocene epoch about 37 million years ago.
 
-##widespread
+## widespread
 
 - Florida 
 - Louisiana
 - Georgia
+
+/images/215px-AmericanAlligator.JPG
