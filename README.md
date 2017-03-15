@@ -14,4 +14,4 @@ facts:
 - Louisiana
 - Georgia
 
-/images/215px-AmericanAlligator.JPG
+![Image of github's cat](/images/215px-AmericanAlligator.JPG)
