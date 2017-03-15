@@ -15,3 +15,8 @@ facts:
 - Georgia
 
 ![Image of github's cat](/images/215px-AmericanAlligator.JPG)
+
+English | Hebrew
+-------|--------
+Alligator  | תנין
+Alligator mississippiensis | תנין מיססיפי
