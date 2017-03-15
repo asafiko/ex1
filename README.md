@@ -19,4 +19,4 @@ facts:
 English | Hebrew
 -------|--------
 Alligator  | תנין
-Alligator mississippiensis | תנין מיססיפי
+Alligator mississippiensis | תנין מיסיסיפי
